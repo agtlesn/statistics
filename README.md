@@ -1,1 +1,1 @@
-# statistics
+The great inspiration of the analysis is the wonderful book Practical Statistics in Data Science by Peter Bruce and Andrew Bruce. The data used to explain main terminology in statistics (1st chapter of the book) is the file 'cabbages.csv' chosen from the files available in R library MASS. The file contains 60 entries and 5 columns: ID, Cult (2 cultivars), Date (3 planting dates), HeadWt (weight of the cabbage head) and VitC (vitamin C content). 
